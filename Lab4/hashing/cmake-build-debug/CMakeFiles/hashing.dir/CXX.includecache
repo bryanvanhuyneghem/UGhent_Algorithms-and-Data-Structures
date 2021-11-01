@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bryan/CLionProjects/hashing/hashfunctions.h
+string
+-
+
+C:/Users/bryan/CLionProjects/hashing/main.cpp
+fstream
+-
+iostream
+-
+map
+-
+vector
+-
+set
+-
+queue
+-
+chrono
+-
+random
+-
+algorithm
+-
+string
+-
+iomanip
+-
+limits.h
+-
+hashfunctions.h
+C:/Users/bryan/CLionProjects/hashing/hashfunctions.h
+
